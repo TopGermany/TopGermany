@@ -10,8 +10,17 @@
 
 -----------------
 
-<!-- 🚀 About Me
-- My name is Bao Nhan from VietNam. I’m a Developer passionate about exploring new technologies, interested in Backend development, Blockchain, and Web3, particularly in building scalable backend systems, creating decentralized applications, and exploring the latest advancements in these fields.
+## 📊 About Me
+👋 Hi there! I'm **Quoc Cuong** from **Vietnam**.  
+I'm a **Data Analyst** passionate about turning data into insights and decisions.  
+Currently, I'm studying at **DUE - Da Nang University of Economics**.  
+
+🌱 My main interests:  
+- 🔍 **Data Analysis & Visualization**  
+- 🤖 Building **automated models** for data analysis  
+- 📊 Creating **interactive dashboards & reports** to make data easier to understand  
+
+💡 I enjoy exploring datasets, uncovering patterns, and developing tools that help businesses make smarter decisions.  
 
 ### 🌐 Connect
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/huynbnhan2710)
