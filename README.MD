@@ -1,10 +1,8 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;I'm+Cuong+<img src='https://flagcdn.com/vn.svg' width='30'/>;In+the+future%2C+I+want+to+become+a+Data+Analyst" 
-      alt="Typing SVG" 
-    />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=1000&height=70&duration=4000&lines=Hi+There!+👋;I'm+Cuong!;In+the+future%2C+I+want+to+become+a+Data+Analyst" alt="Typing SVG" />
   </a>
+  <img src="https://flagcdn.com/vn.svg" width="40" style="margin-left: 10px;"/>
 </div>
 
 -----------------
