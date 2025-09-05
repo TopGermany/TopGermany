@@ -10,7 +10,7 @@
 
 -----------------
 
-<!-- ### 🚀 About Me
+<!-- 🚀 About Me
 - My name is Bao Nhan from VietNam. I’m a Developer passionate about exploring new technologies, interested in Backend development, Blockchain, and Web3, particularly in building scalable backend systems, creating decentralized applications, and exploring the latest advancements in these fields.
 
 ### 🌐 Connect
