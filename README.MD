@@ -27,27 +27,34 @@ Currently, I'm studying at **DUE - Da Nang University of Economics**.
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-h%E1%BB%93-qu%E1%BB%91c-b7412933b/) 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoquocuong2005@gmail.com)
 [![leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/TopGermany/)
-### ⚒️ Languages -->
+### ⚒️ Languages & Tools
 
 <p align="left">
+  <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
   </a>
-</p>
 
-<!-- ### ⚡ Frameworks & Libraries
-<p align="left">
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-     <img src="https://skillicons.dev/icons?i=express" height="40" alt="Languages" />
+  <!-- SQL -->
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" height="40" alt="SQL" />
   </a>
-  <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="Languages" />
+
+  <!-- Excel -->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="40" alt="Excel" />
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react" height="40" alt="Languages" />
+
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40" alt="Power BI" />
   </a>
-</p> -->
-<!-- 
+
+  <!-- Tableau -->
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" height="40" alt="Tableau" />
+  </a>
+</p>
 ### 🖥️ General Development 
 <p align="left">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
