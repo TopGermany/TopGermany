@@ -23,10 +23,10 @@ Currently, I'm studying at **DUE - Da Nang University of Economics**.
 💡 I enjoy exploring datasets, uncovering patterns, and developing tools that help businesses make smarter decisions.  
 
 ### 🌐 Connect
-[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/huynbnhan2710)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bnhan2710/) 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baonhannice@gmail.com)
-[![leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/bnhan2710/)
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/quoccuong.ho.566)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-h%E1%BB%93-qu%E1%BB%91c-b7412933b/) 
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hoquocuong2005@gmail.com)
+[![leetcode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/TopGermany/)
 ### ⚒️ Languages -->
 
 <p align="left">
