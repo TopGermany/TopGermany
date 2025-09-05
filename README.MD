@@ -32,7 +32,7 @@ Currently, I'm studying at **DUE - Da Nang University of Economics**.
 <p align="left">
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="40" alt="Python" />
   </a>
 
   <!-- SQL -->
