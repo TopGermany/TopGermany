@@ -73,7 +73,7 @@ Currently, I'm studying at **DUE - Da Nang University of Economics**.
     </tr>
     <tr>  
       <td colspan="2" align="center">
-        <a href="https://github.com/bnhan2710/github-readme-stats">
+        <a href="https://github.com/TopGermany/github-readme-stats">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopGermany&layout=compact&theme=radical&title_color=3382ed" alt="Top Languages" width="300px"/>
         </a>
       </td>
