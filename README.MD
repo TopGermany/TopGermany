@@ -57,8 +57,26 @@ Currently, I'm studying at **DUE - Da Nang University of Economics**.
 </p>
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats"/>
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+### 📊 My GitHub Stats
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=TopGermany&show_icons=true&theme=radical&title_color=3382ed" alt="My GitHub stats" width="420px" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=TopGermany&theme=tokyonight&border_radius=10&background=1413211" alt="GitHub Streak" width="450px" />
+      </td>
+    </tr>
+    <tr>  
+      <td colspan="2" align="center">
+        <a href="https://github.com/bnhan2710/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TopGermany&layout=compact&theme=radical&title_color=3382ed" alt="Top Languages" width="300px"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+</div>
